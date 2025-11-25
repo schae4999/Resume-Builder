@@ -44,13 +44,16 @@
 - Tailwind CSS for styling
 - Axios for API requests
 - React Router for navigation
+- Lucide REact for icons
 - PDF rendering with client-side preview
 
 ### Backend
 - **REST API** with Controller / Service / Repository architecture
 - **MongoDB** for storing user profiles & resume data
 - **Spring Security** with JWT
-- **Razorpay + Brevo + Cloudinary** integrations
+- **Brevo** for email verification
+- **Razorpay** integration for payments
+- **Cloudinary** for serving user profile images
 - Global exception handling
 
 ### Database
